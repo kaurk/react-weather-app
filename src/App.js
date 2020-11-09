@@ -7,8 +7,9 @@ function App() {
      Weather APP
      <footer>
        This project is coded by Kamaljit Kaur
-     <a href="https://github.com/kaurk/react-weather-app" target="_blank" />
-     and is open sourced on GitHub
+     <a href="https://github.com/kaurk/react-weather-app" target="_blank" >
+       and is open sourced on GitHub
+       </a>
      </footer>
     </div>
   );
