@@ -6,7 +6,7 @@ function App() {
     <div className="App">
      Weather APP
      <footer>
-       This project is coded by Kamaljit Kaur
+       This project is coded by Kamaljit Kaur {" "}
      <a href="https://github.com/kaurk/react-weather-app" target="_blank" >
        and is open sourced on GitHub
        </a>
