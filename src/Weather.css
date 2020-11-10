@@ -1,4 +1,12 @@
 .Weather {
   border: 1px solid #5f9ea0;
-  background-color: #22dada;
+  background-color: #1af8c1;
+  color: #5900ff;
+}
+
+.Weather h1 {
+  display: block;
+
+  font-size: 25px;
+  font-weight: 100px;
 }
