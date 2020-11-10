@@ -4,13 +4,15 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-     Weather APP
+    <div className="container">
+    Weather APP
      <footer>
-       This project is coded by Kamaljit Kaur {" "}
+       This project is coded by Kamaljit Kaur and is {" "}
      <a href="https://github.com/kaurk/react-weather-app" target="_blank" >
-       and is open sourced on GitHub
+        open sourced on GitHub
        </a>
      </footer>
+     </div>
     </div>
   );
 }
