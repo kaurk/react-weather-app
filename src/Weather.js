@@ -22,10 +22,15 @@ export default function Weather(){
                     Partly Cloudy
                 </li>
             </ul>
-            <div className="row">
+            <div className="row  mt-3">
                 <div className="col-6">
-                    <img src="http://openweathermap.org/img/wn/10d@2x.png" alt="Partly Cloudy" />
-                    10 °C
+                    <div className="clearfix">
+                    <img src="http://openweathermap.org/img/wn/10d@2x.png" alt="Partly Cloudy" className="float-left"/>
+                    <div className="float-left">
+                    <span className="temperature">10</span>
+                    <span className="units"> °C</span>
+                </div>
+                </div>
                 </div>
                 <div className="row-6">
                     <ul>
