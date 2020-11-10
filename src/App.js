@@ -9,7 +9,7 @@ function App() {
     <Weather/>
      <footer>
        This project is coded by Kamaljit Kaur and is {" "}
-     <a href="https://github.com/kaurk/react-weather-app" target="_blank" >
+     <a href="https://github.com/kaurk/react-weather-app" target="_blank" rel="noreferrer"  >
         open sourced on GitHub
        </a>
      </footer>
