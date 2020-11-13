@@ -45,7 +45,7 @@ axios.get(apiUrl).then(handleResponse);
 
     return(
         <div className="Weather">
-            <form onsubmit={handleSubmit}>
+            <form onSubmit={handleSubmit}>
                 <div className="row">
                     <div className="col-9">                    
                 <input type="search" placeholder="Type a city..." className="form-control" autoFocus="on" onChange={handleCityChange}/>
